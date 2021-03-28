@@ -1,6 +1,9 @@
 ﻿
 ============= Эскадра =============
 
+"Среди рифов и скал"
+"Between reefs and rocks"
+
 Everyone's born in this world for something
 Everyone has a vocation here
 Everyone's needed here, no accidents
@@ -38,6 +41,7 @@ The choice of one's fate is given to oneself
 
 ============= Инна =============
 
+"Морские звёзды"
 "Starfishes"
 (Note that in Russian, "starfish" is literally spoken as "sea star")
 
@@ -73,6 +77,9 @@ we will conquer discotheques
 
 
 ============= Женя =============
+
+"Ленивый день"
+"Lazy day"
 
 How good's that we're not in a hurry today
 We'll spend all day on our whims
